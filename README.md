@@ -64,3 +64,7 @@ Affecter les ```issues``` du sprint à votre ```project``` et attribuer des ```c
 ## Branch
 
 Créer une ```branch``` sous le master par ```issue```.
+
+# Formulaire de saisie des groupes
+
+[À remplir pour le 18/06/2018 à 20:00](https://goo.gl/forms/xb60ZziNas2hq5as2)
