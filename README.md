@@ -53,7 +53,13 @@ Créer les ```labels``` qui vous permettront de catégoriser les ```issues```.
 
 ## Issue
 
-Lister chaque changement de votre système () chque tâche à effectuer sur votre projet) en tant qu'```issue``` dans votre ```repository```.
+Lister chaque changement de votre système chaque tâche à effectuer sur votre projet) en tant qu'```issue``` dans votre ```repository```. Affecter un membre de l'équipe à chaque issue.
+
+## Project
+
+Créer un ```project``` qui vous permettra de gérer vos ```issues``` dans une interface Scrum. Chaque ```project``` est en fait un sprint.
+Affecter les ```issues``` du sprint à votre ```project``` et attribuer des ```collaborators``` à chaque ```issue```
+
 
 ## Branch
 
