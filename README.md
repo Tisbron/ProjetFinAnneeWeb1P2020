@@ -1,6 +1,9 @@
 # ProjetFinAnneeWeb1P2020
 ## Space the final frontier
 
+## Comment poser des questions?
+[Ici](https://github.com/Tisbron/ProjetFinAnneeWeb1P2020/issues/3)
+
 ## Technologies
 
 * ```PHP``` 7.1+
