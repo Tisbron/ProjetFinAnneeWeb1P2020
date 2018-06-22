@@ -388,7 +388,6 @@ Plateform spaciale d'échanges commerciaux
 # Groupe Space Invaders
 ## Solution
 
-
 Délocalisation d'industries vers d'autres planètes
 ## Pages
 * Assistant de selection de planète en fonction des besoins du site cible
@@ -410,7 +409,24 @@ Délocalisation d'industries vers d'autres planètes
 * Gestion des sites
 * Algo de matching des sites/planètes
 
+# Groupe Void Atlas
+## Solution
+Symfony
 
+Découverte des trous noirs
+## Pages
+* Recherche trous noirs
+* Recherche des articles
+* Quiz dans les articles
+* Back office staff
+	* articles
+	* quiz
+	* utilisateurs
+* Back office utilisateur
+	* gestion du profile
 
-
-
+## Features
+* Gestion des articles sur les trous noirs
+* Gestion des quiz de fin d'article
+* Gestion des utilisateurs
+* Bonus de destruction de systèmes solaires en dur
