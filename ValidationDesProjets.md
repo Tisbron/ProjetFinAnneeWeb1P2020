@@ -397,9 +397,9 @@ Délocalisation d'industries vers d'autres planètes
 	* Gestion des entreprise
 	* Gestion des sites entreprise
 	* Gestion des planètes
+	* Gestion des subventions
 * Back office entreprise
 	* Gestion des sites de son entreprise
-	* Gestion des subventions
 	* Historique des délocalisations
 	* Statut d'avancement des délocalisations en cours
 
