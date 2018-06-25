@@ -1,21 +1,6 @@
 ![Le schema](./schema.png)
 
 ```sql
-SELECT 
-    b.`start_date`,
-    b.`end_date`,
-    p.`name` as pname,
-    z.`name` zname,
-    u.`name` uname
-
-FROM 
-    `booking` b
-JOIN `user` u ON u.`id` = b.`id_user`
-JOIN `zone` z ON z.`id` = b.`id_zone`
-JOIN `planet` p ON p.`id` = z.`id_planet`
-```
-
-```sql
 CREATE TABLE `user` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `name` varchar(45) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
@@ -44,4 +29,20 @@ CREATE TABLE `zone` (
   `id_planet` int(11) DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+```
+
+
+```sql
+SELECT 
+    b.`start_date`,
+    b.`end_date`,
+    p.`name` as pname,
+    z.`name` zname,
+    u.`name` uname
+
+FROM 
+    `booking` b
+JOIN `user` u ON u.`id` = b.`id_user`
+JOIN `zone` z ON z.`id` = b.`id_zone`
+JOIN `planet` p ON p.`id` = z.`id_planet`;
 ```
