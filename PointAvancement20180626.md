@@ -17,7 +17,7 @@
 | 6 ROCKET 9 |  |  |  |  |  |  |
 | Project Hunter | SF/Natif | 40% | OK | WIP | KO | Oui? |
 | c'est nous qu'on fait l'avenir | SF/Vue.js | 50% | OK | WIP | KO | Oui |
-| Team 7 |  |  |  |  |  |  |
+| Team 7 | PHP/Natif | 60% | OK | KO | KO | Oui |
 | SpaceW |  |  |  |  |  |  |
 | Nebula | SF/Vue.js | 70% | WIP | WIP | OK | Oui? |
 | Jason |  |  |  |  |  |  |
@@ -80,7 +80,8 @@
 * Format du cahier technique non respecté, à refaire
 
 ## Team 7
-
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 17:05
+* Manque de sécurité (passwords, cc numbers etc.)
 
 ## SpaceW
 
