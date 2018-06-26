@@ -18,7 +18,7 @@
 | Project Hunter | SF/Natif | 40% | OK | WIP | KO | Oui? |
 | c'est nous qu'on fait l'avenir | SF/Vue.js | 50% | OK | WIP | KO | Oui |
 | Team 7 | PHP/Natif | 60% | OK | KO | KO | Oui |
-| SpaceW |  |  |  |  |  |  |
+| SpaceW | PHP/Natif | 70% | OK | KO | KO | Oui |
 | Nebula | SF/Vue.js | 70% | WIP | WIP | OK | Oui? |
 | Jason |  |  |  |  |  |  |
 
@@ -84,7 +84,9 @@
 * Manque de sécurité (passwords, cc numbers etc.)
 
 ## SpaceW
-
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 17:05
+* Envoie d'emails
+* Problèmes d'intégration technique PHP/HTML
 
 ## Nebula
 * Sécurisation de l'admin
