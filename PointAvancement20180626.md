@@ -69,6 +69,7 @@
 
 
 ## 6 ROCKET 9
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) jeudi 17:03
 * No problemo à part les membres fantômes
 
 ## Project Hunter
