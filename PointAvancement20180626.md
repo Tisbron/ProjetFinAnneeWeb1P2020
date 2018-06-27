@@ -14,7 +14,7 @@
 | StarDate | SF/React.js | 50% | OK | WIP | WIP | Oui |
 | Space Invaders | SF/Natif | 40% | WIP | KO | WIP | Oui |
 | FabPot FTW |  |  |  |  |  |  |
-| 6 ROCKET 9 |  |  |  |  |  |  |
+| 6 ROCKET 9 | PHP/Natif | 70% | OK | KO | OK | Oui |
 | Project Hunter | SF/Natif | 40% | OK | WIP | KO | Oui? |
 | c'est nous qu'on fait l'avenir | SF/Vue.js | 50% | OK | WIP | KO | Oui |
 | Team 7 | PHP/Natif | 60% | OK | KO | KO | Oui |
@@ -69,7 +69,7 @@
 
 
 ## 6 ROCKET 9
-
+* No problemo à part les membres fantômes
 
 ## Project Hunter
 * Périmètre fonctionnel retrécit pour cause de problèmes recontrés
