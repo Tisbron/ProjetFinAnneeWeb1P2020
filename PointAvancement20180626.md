@@ -9,7 +9,7 @@
 | SpaceSix | SF/Natif | 60% | OK | KO | WIP | Oui |
 | SpaceCooking / Void Atlas | PHP/Natif | 70% | WIP | KO | KO | Oui |
 | MEGAMIX | SF/Vue.js | 50% | OK | KO | KO | Oui |
-| Big Black Holes |  |  |  |  |  |  |
+| Big Black Holes | SF/Natif | 70% | WIP | WIP | OK | Oui |
 | Space Agency | SF/Natif | 60% | WIP | OK | KO | Oui |
 | StarDate | SF/React.js | 50% | OK | WIP | WIP | Oui |
 | Space Invaders | SF/Natif | 40% | WIP | KO | WIP | Oui |
@@ -52,7 +52,8 @@
 * Périmètre fonctionnel modifié suite à rencontre de problèmes
 
 ## Big Black Holes
-
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) jeudi 16:52
+* Intégration tunnel d'achat (User <-> Booking)
 
 ## Space Agency
 * Everything is gooood
