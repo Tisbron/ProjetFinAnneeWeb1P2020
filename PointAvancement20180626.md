@@ -20,7 +20,7 @@
 | Team 7 | PHP/Natif | 60% | OK | KO | KO | Oui |
 | SpaceW | PHP/Natif | 70% | OK | KO | KO | Oui |
 | Nebula | SF/Vue.js | 70% | WIP | WIP | OK | Oui? |
-| Jason |  |  |  |  |  |  |
+| Jason | PHP/natif | 70% | WIP | KO | KO | Noui? |
 
 # Retour global
 * Mauvaise gestion de l'avancement, aucune visibilité
@@ -52,7 +52,7 @@
 * Périmètre fonctionnel modifié suite à rencontre de problèmes
 
 ## Big Black Holes
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) jeudi 16:52
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) mercredi 16:52
 * Intégration tunnel d'achat (User <-> Booking)
 
 ## Space Agency
@@ -69,7 +69,7 @@
 
 
 ## 6 ROCKET 9
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) jeudi 17:03
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) mercredi 17:03
 * No problemo à part les membres fantômes
 
 ## Project Hunter
@@ -94,5 +94,5 @@
 * Sécurisation de l'admin
 
 ## Jason
-
-
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) jeudi 11:30
+* Tout seul c’est dur
