@@ -101,9 +101,9 @@ Quiz d'erreurs de films SF
 
 # Groupe Space Agency
 ## Solution
-PHP natif
+Symfony/VueJS
 
-Site de recrutement du Corps Spatial de France
+Site de recrutement du Corps Spatial de l'Armée de France
 
 ## Pages
 * Vitrine 
